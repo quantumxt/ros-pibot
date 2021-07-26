@@ -1,5 +1,7 @@
 # ros-pibot
 
+> **NOTE:** This repository has been archived, please refer to the newer pibot repository [here](https://github.com/1487quantum/ros2-pibot).
+
 A simple 2 wheel differential drive robot powered by ROS, Arduino &amp; Raspberry Pi 3.
 
 > Tested on Raspbian GNU/Linux 10 (buster), ROS Noetic Installation.
